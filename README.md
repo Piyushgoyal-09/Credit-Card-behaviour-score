@@ -88,10 +88,6 @@ To use this repository:
 - Scikit-learn
 - Matplotlib
 
-Install all dependencies using:
-```bash
-pip install -r requirements.txt
-```
 
 ## Contributors
 - **Your Name**

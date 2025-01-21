@@ -1,5 +1,4 @@
 # Credit-Card-behaviour-score
-# Credit Card Behaviour Score
 
 This repository contains the implementation of a predictive model for assessing the likelihood of credit card defaults, referred to as the Credit Card Behaviour Score. The project utilizes machine learning techniques to process data, handle imbalances, and develop a robust predictive model.
 
